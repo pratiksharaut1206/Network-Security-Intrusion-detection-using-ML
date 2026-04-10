@@ -30,4 +30,4 @@ Metrics used:
 - F1-score
 
 ## 📌 Author
-ML Project
+Pratiksha Raut
